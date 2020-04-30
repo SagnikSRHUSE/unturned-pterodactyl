@@ -1,4 +1,4 @@
-FROM debian:buster
+FROM debian:stretch
 
 MAINTAINER Sagnik Sasmal, <sagnik@sagnik.me>
 
